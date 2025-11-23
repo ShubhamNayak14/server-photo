@@ -1,0 +1,38 @@
+# Ignore node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Vercel local folder
+.vercel/
+
+# Dist / Build / Temp
+dist/
+build/
+.cache/
+tmp/
+temp/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Optional: Lock files (if you don’t want them)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
